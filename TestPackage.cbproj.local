@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2025-06-12 13:12:17.988,C:\svn\ProjectsV12\TestPackage.cbproj=C:\svn\ProjectsV12\Project1.cbproj</Transaction>
-    <Transaction>2025-06-12 13:12:33.147,=C:\svn\ProjectsV12\Unit1.cpp</Transaction>
-    <Transaction>2025-06-12 13:21:12.235,C:\svn\ProjectsV12\TestPackage.h=C:\svn\ProjectsV12\Unit1.h</Transaction>
-    <Transaction>2025-06-12 13:21:12.235,C:\svn\ProjectsV12\TestPackage.cpp=C:\svn\ProjectsV12\Unit1.cpp</Transaction>
-    <Transaction>2025-06-12 13:22:38.491,C:\Users\jjaco\Desktop\TestPackage\TestPackage.cpp=C:\svn\ProjectsV12\TestPackage.cpp</Transaction>
-    <Transaction>2025-06-12 13:22:50.883,C:\Users\jjaco\Desktop\TestPackage\TestPackage.cbproj=C:\svn\ProjectsV12\TestPackage.cbproj</Transaction>
+	<Transactions>
+    <Transaction>2025-06-12 13:12:17.000.988,C:\svn\ProjectsV12\TestPackage.cbproj=C:\svn\ProjectsV12\Project1.cbproj</Transaction>
+    <Transaction>2025-06-12 13:12:33.000.147,=C:\svn\ProjectsV12\Unit1.cpp</Transaction>
+    <Transaction>2025-06-12 13:21:12.000.235,C:\svn\ProjectsV12\TestPackage.h=C:\svn\ProjectsV12\Unit1.h</Transaction>
+    <Transaction>2025-06-12 13:21:12.000.235,C:\svn\ProjectsV12\TestPackage.cpp=C:\svn\ProjectsV12\Unit1.cpp</Transaction>
+    <Transaction>2025-06-12 13:22:38.000.491,C:\Users\jjaco\Desktop\TestPackage\TestPackage.cpp=C:\svn\ProjectsV12\TestPackage.cpp</Transaction>
+    <Transaction>2025-06-12 13:22:50.000.883,C:\Users\jjaco\Desktop\TestPackage\TestPackage.cbproj=C:\svn\ProjectsV12\TestPackage.cbproj</Transaction>
   </Transactions>
 </BorlandProject>
